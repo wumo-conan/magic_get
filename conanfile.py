@@ -3,7 +3,7 @@ import os
 
 class MagicGetConan(ConanFile):
     name = "magic_get"
-    version = "1.0.1"
+    version = "2.0.1"
     url = "https://github.com/apolukhin/magic_get"
     description = "std::tuple like methods for user defined types without any macro or boilerplate code"
     
